@@ -56,7 +56,7 @@ To create a new release:
 [Biome.js]: https://biomejs.dev/
 [Git]: https://git-scm.com/
 [Node.js]: https://nodejs.org/
-[open an issue]: https://github.com/jerboa88/gatsby-plugin-component-to-image/issues
+[open an issue]: https://github.com/twocaretcat/gatsby-plugin-component-to-image/issues
 [Pnpm]: https://pnpm.io/
 [semantic versioning]: https://semver.org/
 [TypeScript]: https://www.typescriptlang.org/

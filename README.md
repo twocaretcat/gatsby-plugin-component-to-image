@@ -6,13 +6,13 @@
 
 <p class="projectBadges">
 	<img src="https://johng.io/badges/category/Plugin.svg" alt="Project category" title="Project category">
-	<img src="https://img.shields.io/github/languages/top/jerboa88/gatsby-plugin-component-to-image.svg" alt="Language" title="Language">
+	<img src="https://img.shields.io/github/languages/top/twocaretcat/gatsby-plugin-component-to-image.svg" alt="Language" title="Language">
 	<a href="https://www.npmjs.com/package/gatsby-plugin-component-to-image">
 		<img src="https://img.shields.io/npm/v/gatsby-plugin-component-to-image" alt="View package on npmjs" title="View package on npmjs"/>
 	</a>
-	<img src="https://img.shields.io/github/repo-size/jerboa88/gatsby-plugin-component-to-image.svg" alt="Repository size" title="Repository size">
+	<img src="https://img.shields.io/github/repo-size/twocaretcat/gatsby-plugin-component-to-image.svg" alt="Repository size" title="Repository size">
 	<a href="LICENSE">
-		<img src="https://img.shields.io/github/license/jerboa88/gatsby-plugin-component-to-image.svg" alt="Project license" title="Project license"/>
+		<img src="https://img.shields.io/github/license/twocaretcat/gatsby-plugin-component-to-image.svg" alt="Project license" title="Project license"/>
 	</a>
 </p>
 
@@ -59,19 +59,19 @@ This plugin was inspired by similar plugins for generating [Open Graph] images l
 1. Install the plugin with your favorite package manager:
 
 	```sh
-	npm install jerboa88/gatsby-plugin-component-to-image		# npm
+	npm install twocaretcat/gatsby-plugin-component-to-image		# npm
 	```
 
 	```sh
-	yarn add jerboa88/gatsby-plugin-component-to-image		# yarn
+	yarn add twocaretcat/gatsby-plugin-component-to-image		# yarn
 	```
 
 	```sh
-	pnpm add jerboa88/gatsby-plugin-component-to-image		# pnpm
+	pnpm add twocaretcat/gatsby-plugin-component-to-image		# pnpm
 	```
 
 	```sh
-	bun add github:jerboa88/gatsby-plugin-component-to-image	# bun
+	bun add github:twocaretcat/gatsby-plugin-component-to-image	# bun
 	```
 
 2. Add the plugin to your `gatsby-config.js` file:

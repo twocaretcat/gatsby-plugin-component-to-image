@@ -28,13 +28,13 @@
 		"/lib",
 		"gatsby-node.js"
 	],
-	"homepage": "https://github.com/jerboa88/gatsby-plugin-component-to-image",
+	"homepage": "https://github.com/twocaretcat/gatsby-plugin-component-to-image",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jerboa88/gatsby-plugin-component-to-image.git"
+		"url": "git+https://github.com/twocaretcat/gatsby-plugin-component-to-image.git"
 	},
 	"bugs": {
-		"url": "https://github.com/jerboa88/gatsby-plugin-component-to-image/issues"
+		"url": "https://github.com/twocaretcat/gatsby-plugin-component-to-image/issues"
 	},
 	"scripts": {
 		"build": "tsc",
