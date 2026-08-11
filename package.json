@@ -2,7 +2,28 @@
 	"name": "gatsby-plugin-component-to-image",
 	"version": "1.0.1",
 	"description": "A Gatsby plugin to generate images and PDFs from React components",
-	"author": "John Goodliff (https://johng.io)",
+	"author": {
+		"name": "John Goodliff",
+		"url": "https://johng.io"
+	},
+	"funding": [
+		{
+			"type": "individual",
+			"url": "https://johng.io/funding"
+		},
+		{
+			"type": "GitHub Sponsors",
+			"url": "https://github.com/sponsors/twocaretcat"
+		},
+		{
+			"type": "Patreon",
+			"url": "https://patreon.com/twocaretcat"
+		},
+		{
+			"type": "Brave Creators",
+			"url": "https://publishers.basicattentiontoken.org/en/c/johng"
+		}
+	],
 	"keywords": [
 		"react",
 		"reactjs",
